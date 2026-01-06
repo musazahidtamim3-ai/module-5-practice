@@ -43,3 +43,30 @@ button{
     font-size: 20px;
     font-weight: 600;
 }
+
+.failures .failure-container{
+    width: 71%;
+    max-width: 1140px;
+    margin: 0 322px 0 206px;
+    display: flex;
+    gap: 87px;
+    margin-top: 131px;
+}
+
+.content{
+    margin: 239px 0px 85px;
+}
+.content h3{
+    font-size: 40px;
+    color: #151414;
+    margin-bottom: 24px;
+    max-width: 288px;
+}
+.content .pt{
+    color: #444343;
+    line-height: 26px;
+    margin-bottom: 16px;
+}
+.content .pr p{
+    margin-bottom: 8px;
+}

@@ -70,3 +70,110 @@ button{
 .content .pr p{
     margin-bottom: 8px;
 }
+.plans{
+    margin-top: 131px;
+}
+.plans h2{
+    font-size: 40px;
+    text-align: center;
+}
+.plans .plan-container{
+    display: flex;
+    gap: 86px;
+    width: 71%;
+    max-width: 1640px;
+    margin: 50px auto;
+    text-align: center;
+}
+.card{
+    width: 218px;
+}
+.card h3{
+    margin-top: 24px;
+    margin-bottom: 16px;
+    font-size: 22px;
+    font-weight: bold;
+    color: #151414;
+}
+.card p{
+    color: #737272;
+    font-size: 18px;
+}
+.banner{
+    margin-top: 131px;
+    margin-bottom: 131px;
+}
+.banner-container{
+    width: 71%;
+    margin: 0 auto;
+    position: relative;
+}
+.banner-container .content{
+    position: absolute;
+    left: 64px;
+    bottom: 1px;
+    color: white;
+    max-width: 459px;
+}
+.banner-container .content h2{
+    font-size: 40px;
+    margin-bottom: 24px;
+}
+.image-box{
+    position: relative;
+}
+.main-img{
+    display: block;
+}
+.gradient{
+    position: absolute;
+    inset: 0;
+}
+footer{
+    background-color: #151414;
+    color: white;
+    padding: 130px 230px;
+}
+.foot{
+    display: flex;
+    gap: 330px;
+}
+.left h2{
+    font-size: 45px;
+    margin-bottom: 16px;
+}
+.left .par{
+    line-height: 26px;
+    max-width: 485px;
+    margin-bottom: 24px;
+}
+.left .pt{
+    margin-bottom: 16px;
+}
+.left .pr{
+    margin-bottom: 32px;
+}
+.left .icons img{
+    margin-right: 17px;
+}
+.right p{
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 31px;
+}
+input{
+    background-color: #151414;
+    border: 2px solid white;
+    padding: 21px 158px 21px 21px ;
+    border-radius: 5px;
+    margin-bottom: 16px;
+}
+.btn{
+    background-color: #005FAC;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 20px 25px;
+    font-size: 20px;
+    font-weight: 600;
+}
